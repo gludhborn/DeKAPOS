@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "485019091592",
+    "firebase_url": "https://dekapos-a06fd.firebaseio.com",
+    "project_id": "dekapos-a06fd",
+    "storage_bucket": "dekapos-a06fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485019091592:android:6e41a0babf3936a0b6553d",
+        "android_client_info": {
+          "package_name": "deka.id"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "485019091592-3s002da5n9ovdltvccpuas74gn0mcd39.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8avUtKuPxjjbPfPqYWHBVIeAMYhfkJvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "485019091592-3s002da5n9ovdltvccpuas74gn0mcd39.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
